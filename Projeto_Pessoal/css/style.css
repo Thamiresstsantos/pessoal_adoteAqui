@@ -1,0 +1,48 @@
+body{
+    
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background-image: url(patas.jpg);
+     background-size: 100%;
+    
+}
+.container{
+    width: 80%;
+    background-color: white;
+    margin-left: 10%;
+}
+
+.mainav{
+    background-color: yellow;
+    color: gray;
+    width: 48%;
+    float: right;
+
+
+}
+
+.mainav li{
+    display: inline;
+    padding: 10%;
+}
+
+.mainav li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: grey;
+}
+.header p{
+    display: inline;
+    padding: 1%;
+    text-align: left;
+    font-size: 150%;
+    background-color: grey;
+    width: 50%; height: 20%;
+    float: left;
+    color: yellow;
+    
+
+}
+.container p{
+    
+}
